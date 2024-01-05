@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "845878811614",
+    "project_id": "eatshit-38308",
+    "storage_bucket": "eatshit-38308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845878811614:android:4989e9675ca92fb69cdb4f",
+        "android_client_info": {
+          "package_name": "com.example.makeitsoso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845878811614-b8k7c4tpqv37iif3hhpbjpf0ncbee652.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.makeitsoso",
+            "certificate_hash": "75223615a2decdad8562edd202487495eb5ef810"
+          }
+        },
+        {
+          "client_id": "845878811614-dkkf89ako1v2ndq68m5lh308lhaam343.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq_oezc_mjnLv8cwhBJGp67fkGSOERBxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845878811614-dkkf89ako1v2ndq68m5lh308lhaam343.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
